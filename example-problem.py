@@ -30,7 +30,7 @@ Ca = [[1, 1, 0, 0],  # {Early Morning}
       [0, 1, 0, 1],  # {Afternoon}
       [1, 0, 0, 1]]  # {Night}
 
-# We have one unit of each resource
+# Let R be a distribution over demographic groups
 R = [0.4, 0.1, 0.25, 0.25]
 
 # Z: large constant, relative to the maximum payoff
